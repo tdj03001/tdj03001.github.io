@@ -1,0 +1,14 @@
+h1 {
+  margin: 50px;
+  color: chartreuse;
+}
+
+.div {
+  margin-top: 50px;
+  margin-left: 350px;
+  margin-bottom: auto;
+  margin-right: 800px;
+  border: 2px;
+  border-color: black;
+  border-style: dashed;
+}
